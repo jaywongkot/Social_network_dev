@@ -1,0 +1,22 @@
+{
+  "name": "devconnector_theme",
+  "version": "1.0.0",
+  "description": "Social network for developer website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaywongkot/Social_network_dev.git"
+  },
+  "author": "Jay Wongkot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaywongkot/Social_network_dev/issues"
+  },
+  "homepage": "https://github.com/jaywongkot/Social_network_dev",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
