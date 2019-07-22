@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jaywongkot/Social_network_dev",
   "dependencies": {
-    "gh-pages": "^2.0.1"
-  }
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {}
 }

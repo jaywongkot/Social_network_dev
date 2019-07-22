@@ -1,3 +1,4 @@
 # Social_network_dev
+
 Developer connection website
-Using Sass Grid Flexbox and HTML5
+Using node sass & live sass, Grid, Flexbox and HTML5
